@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eagle Hunting</string>
+    <string name="developed_by_yahya_angawi">Developed By Yahya Angawi</string>
+    <string name="the_eagle_hunting">The Eagle Hunting</string>
+    <string name="you_re_dead">You\'re Dead!</string>
+    <string name="score">Score</string>
+    <string name="play_again">Play Again</string>
+    <string name="quit">Quit</string>
+</resources>
